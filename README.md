@@ -7,11 +7,11 @@ et envoient leur fichier audio : il arrive directement dans leur téléphone en 
 
 ## Mise en ligne (GitHub Pages)
 
-0. Settings > General > Repository name : **ElyFy** (Rename). L'adresse du site devient `…/ElyFy/`.
+0. Dépôt : ElyzeaFA/ElyFy.
 1. Settings > Pages > Source : **Deploy from a branch**, branche `main`, dossier `/ (root)`, Save.
-2. Le site est en ligne au bout d'une minute environ : `https://connexionsky9.github.io/ElyFy/`
+2. Le site est en ligne au bout d'une minute environ : `https://elyzeafa.github.io/ElyFy/`
 3. Côté serveur FiveM, dans `elyzea_aura/config_elyfy.lua` :
-   `Page = 'https://connexionsky9.github.io/ElyFy/',` puis `restart elyzea_aura`.
+   `Page = 'https://elyzeafa.github.io/ElyFy/',` puis `restart elyzea_aura`.
 
 ## Réglage
 
